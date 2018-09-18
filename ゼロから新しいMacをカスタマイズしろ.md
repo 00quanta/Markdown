@@ -4,7 +4,7 @@
 #### Homebrew
 ***
 ##### 安装Homebrew
-1. (brew)[https://brew.sh/]
+1. [brew](https://brew.sh/)
 1. brew doctor
 ##### 程序安装工具
 1. brew tap caskroom/cask
